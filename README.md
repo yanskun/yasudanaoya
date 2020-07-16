@@ -1,9 +1,3 @@
-<style>
-  td {
-    text-align: center;
-  }
-</style>
-
 # my Apps
 
 name|description|URL
