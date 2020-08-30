@@ -1,5 +1,5 @@
 
-<img  src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for egoist">
+<img src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&count_private=true&theme=vue&hide_title=true&show_icons=true" alt="github stats for yasudanaoya">
 
 # my Apps
 
