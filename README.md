@@ -17,6 +17,8 @@ name|description|URL
 あつ森カブ価チャート|Stock chart<br>for Animal Crossing|https://atumori-kabuchart.com/
 MyEditune|Config file generator<br>for VSCode|https://myeditune.com/
 
+## development stage
+
 <table>
   <thead>
     <tr>
