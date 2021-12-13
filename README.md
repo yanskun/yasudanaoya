@@ -1,3 +1,10 @@
+I'm a web Front Engineer.
+
+started with Vue and now working on writing React.
+
+However, recently I also wrote Golang, so it's not just the front desk.
+
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&count_private=true&theme=vue-dark&hide_title=true&show_icons=true" alt="github stats for yasudanaoya">
  -->
 [![](https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
