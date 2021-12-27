@@ -23,28 +23,3 @@ name|description|URL
 ---|---|---
 あつ森カブ価チャート|Stock chart<br>for Animal Crossing|https://atumori-kabuchart.com/
 MyEditune|Config file generator<br>for VSCode|https://myeditune.com/
-
-## development stage
-
-<table>
-  <thead>
-    <tr>
-      <th>name</th>
-      <th>description</th>
-      <th>repository</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td rowspan="2">Door</td>
-      <td rowspan="2">Link sharing service</td>
-      <td><a href="https://github.com/yasudanaoya/door">Frontend</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/yasudanaoya/door-server">Backend</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<!-- Picky About|Portfolio|https://picky-about.com/ -->
