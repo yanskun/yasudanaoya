@@ -1,6 +1,6 @@
-I'm a web Front Engineer.
+I'm a WEB Front Engineer.
 
-started with Vue and now working on writing React.
+Starting with Vue, I'm currently developing with React.
 
 However, recently I also wrote Golang, so it's not just the front desk.
 
