@@ -4,6 +4,8 @@ started with Vue and now working on writing React.
 
 However, recently I also wrote Golang, so it's not just the front desk.
 
+I want to contribute to OSS, but I only update the documentation :-C
+I will do my best.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&count_private=true&theme=vue-dark&hide_title=true&show_icons=true" alt="github stats for yasudanaoya">
  -->
