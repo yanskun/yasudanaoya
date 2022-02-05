@@ -1,3 +1,12 @@
+I'm a WEB Front Engineer.
+
+Starting with Vue, I'm currently developing with React.
+
+However, recently I also wrote Golang, so it's not just the front desk.
+
+I want to contribute to OSS, ~~but I only update the documentation~~ :-C  
+Recently, I have contributed a little other than documents. However, just a tiny.
+
 ![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
 ![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
 
@@ -28,14 +37,6 @@
 
 ![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)
 
-I'm a WEB Front Engineer.
-
-Starting with Vue, I'm currently developing with React.
-
-However, recently I also wrote Golang, so it's not just the front desk.
-
-I want to contribute to OSS, ~~but I only update the documentation~~ :-C  
-Recently, I have contributed a little other than documents. However, just a tiny.
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&count_private=true&theme=vue-dark&hide_title=true&show_icons=true" alt="github stats for yasudanaoya">
  -->
