@@ -1,3 +1,33 @@
+![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+
+[![WED](https://img.shields.io/badge/Company-WED-D2D2C6?style=flat-square&logo=pinboard&logoColor=white)](https://github.com/wedinc)
+
+![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
+[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-informational?style=flat-square&logo=files&logoColor=white)](https://github.com/br3ndonland/dotfiles)  
+![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)  
+![iTerm2](https://img.shields.io/badge/Terminal-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+![Tmux](https://img.shields.io/badge/Terminal-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/JavaScript%20framework-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)  
+![React](https://img.shields.io/badge/JavaScript%20framework-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+
+![Bootstrap](https://img.shields.io/badge/UI%20framework-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vuetify](https://img.shields.io/badge/UI%20framework-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/UI%20framework-Material%20UI-027FFF?style=flat-square)
+
+![MySQL](https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Learning-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Learning-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)
+
 I'm a WEB Front Engineer.
 
 Starting with Vue, I'm currently developing with React.
@@ -14,14 +44,3 @@ Recently, I have contributed a little other than documents. However, just a tiny
 [![](https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!-- [![](https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-
-# Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
-
-
-# my Apps
-
-name|description|URL
----|---|---
-あつ森カブ価チャート|Stock chart<br>for Animal Crossing|https://atumori-kabuchart.com/
-MyEditune|Config file generator<br>for VSCode|https://myeditune.com/
