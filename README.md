@@ -7,8 +7,8 @@ However, recently I also wrote Golang, so it's not just the front desk.
 I want to contribute to OSS, ~~but I only update the documentation :-C~~  
 Recently, I have contributed a little other than documents. However, just a tiny.
 
-![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
-![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)
+[![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/708yasuda)
+[![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/naoya.yasuda.50)
 
 [![WED](https://img.shields.io/badge/Company-WED-D2D2C6?style=flat-square&logo=pinboard&logoColor=white)](https://github.com/wedinc)
 
