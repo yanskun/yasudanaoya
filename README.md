@@ -4,7 +4,7 @@ Starting with Vue, I'm currently developing with React.
 
 However, recently I also wrote Golang, so it's not just the front desk.
 
-I want to contribute to OSS, ~~but I only update the documentation~~ :-C  
+I want to contribute to OSS, ~~but I only update the documentation :-C~~  
 Recently, I have contributed a little other than documents. However, just a tiny.
 
 ![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
@@ -20,12 +20,14 @@ Recently, I have contributed a little other than documents. However, just a tiny
 ![Tmux](https://img.shields.io/badge/Terminal-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
 ![Go](https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Language-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/JavaScript%20framework-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)  
-![React](https://img.shields.io/badge/JavaScript%20framework-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Nuxt](https://img.shields.io/badge/JavaScript%20framework-Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![React](https://img.shields.io/badge/JavaScript%20framework-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
+![Rails](https://img.shields.io/badge/Ruby%20framework-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/UI%20framework-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/UI%20framework-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
