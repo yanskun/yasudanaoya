@@ -1,4 +1,4 @@
-I'm a WEB Front Engineer.
+WEB Front Engineer.
 
 Starting with Vue, I'm currently developing with React.
 
