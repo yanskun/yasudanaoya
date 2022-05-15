@@ -27,15 +27,6 @@
 \`-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
 &nbsp;&emsp;\`-- ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
 
-## $ find $FRAMEWORK -perm 754
-
-![Bootstrap](https://img.shields.io/badge/UI%20framework-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-![Vuetify](https://img.shields.io/badge/UI%20framework-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)  
-![MaterialUI](https://img.shields.io/badge/UI%20framework-Material%20UI-027FFF?style=flat-square)  
-![MySQL](https://img.shields.io/badge/Learning-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![GCP](https://img.shields.io/badge/Learning-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Learning-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)  
-
 ## $ gh status
 
 ![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)
