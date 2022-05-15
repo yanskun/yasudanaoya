@@ -1,4 +1,4 @@
-## ❯ whoami
+## $ whoami
 
 [![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/708yasuda)  
 [![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/naoya.yasuda.50)
