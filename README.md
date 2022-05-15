@@ -29,7 +29,7 @@
 
 ## $ gh status
 
-![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/nuxt)
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=yasudanaoya&count_private=true&theme=vue-dark&hide_title=true&show_icons=true" alt="github stats for yasudanaoya">
  -->
