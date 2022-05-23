@@ -17,7 +17,7 @@
 ![Tmux](https://img.shields.io/badge/Terminal-Tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)  
 
 ## $ tree $LANG -L 2
-|-- 🇯🇵 ja_JP.UTF8  
+|-- ja_JP.UTF8  
 |-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)  
 |&emsp;|-- ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)  
 |&emsp;|-- ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)  
