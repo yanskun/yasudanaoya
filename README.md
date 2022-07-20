@@ -26,7 +26,8 @@
 |-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
 |\-- ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)  
 |&emsp;\`-- ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)  
-\`-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+|-- ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)  
+\`-- ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=lua&logoColor=white)  
 
 ## $ gh status
 
