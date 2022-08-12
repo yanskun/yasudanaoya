@@ -1,6 +1,6 @@
 ## $ whoami
 
-[![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/708yasuda)  
+[![Twitter](https://img.shields.io/badge/SNS-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yanskun)  
 [![Facebook](https://img.shields.io/badge/SNS-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/naoya.yasuda.50)
 
 ## $ pwd
@@ -36,16 +36,16 @@
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/nuxt)  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/0-profile-details.svg">
- <img src="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/default/0-profile-details.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/0-profile-details.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
- <img src="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/default/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
 </picture>  
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/monokai/4-productive-time.svg">
- <img src="https://raw.githubusercontent.com/yasudanaoya/yasudanaoya/master/profile-summary-card-output/default/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/4-productive-time.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
 </picture>
