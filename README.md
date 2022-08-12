@@ -10,7 +10,7 @@
 ## $ printenv
 
 ![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)  
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-informational?style=flat-square&logo=files&logoColor=white)](https://github.com/br3ndonland/dotfiles)  
+[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-informational?style=flat-square&logo=files&logoColor=white)](https://github.com/yanskun/dotfiles)  
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)  
 ![iTerm2](https://img.shields.io/badge/Terminal-iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)  
