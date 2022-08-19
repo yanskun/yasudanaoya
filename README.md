@@ -34,6 +34,7 @@
 ## $ gh status
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Nuxt-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/nuxt)  
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Neovim-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/neovim)  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/0-profile-details.svg">
