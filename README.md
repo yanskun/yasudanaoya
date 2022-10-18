@@ -45,8 +45,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
-</picture>  
-<br>
+</picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/4-productive-time.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
