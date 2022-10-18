@@ -38,15 +38,15 @@
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Neovim-EA4AAA?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/neovim)  
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/0-profile-details.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/0-profile-details.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/0-profile-details.svg">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/2-most-commit-language.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/4-productive-time.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/4-productive-time.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/4-productive-time.svg">
 </picture>
