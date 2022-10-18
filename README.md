@@ -43,10 +43,10 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/3-stats.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/3-stats.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/4-productive-time.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+ <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/github/2-most-commit-language.svg">
 </picture>
