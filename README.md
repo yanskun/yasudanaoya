@@ -35,25 +35,25 @@ const yanskun = {
 <details>
 <summary>GitHub Status</summary>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/0-profile-details.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/1-repos-per-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/1-repos-per-language.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/3-stats.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/3-stats.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/3-stats.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/monokai/4-productive-time.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
 </picture>
 </details>
