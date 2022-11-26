@@ -2,8 +2,6 @@
 
 _Lead Engineer at [WED](https://github.com/wedinc)_
 
-[My Web Site](https://yanskun.com)
-
 ### About Me
 
 ```ts
