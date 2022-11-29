@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Readme Simple
 
 on:
   schedule: # execute every 24 hours
