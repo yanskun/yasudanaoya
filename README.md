@@ -1,4 +1,4 @@
-# Welcom
+# Hi there 👋
 
 _Lead Engineer at [WED](https://github.com/wedinc)_
 
