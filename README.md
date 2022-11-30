@@ -35,6 +35,16 @@ Other        15 mins         ███▓░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--START_SECTION:waka-simple-->
+
+```text
+Vue.js       17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
+Markdown     16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Other        15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+```
+
+<!--END_SECTION:waka-simple-->
+
 <details>
 <summary>GitHub Status</summary>
 <picture>
