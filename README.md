@@ -10,6 +10,7 @@ const yanskun = {
   functions: ["Web Developer", "EM"],
   devTools: {
     editor: ["Neovim", "VSCode"],
+    keyboard: "HHKB",
     misc: ["tmux", "Copilot"],
   },
   technologies: {
