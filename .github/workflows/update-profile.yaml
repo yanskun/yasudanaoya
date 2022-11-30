@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Profile
 
 on:
   schedule: # execute every 24 hours
@@ -6,8 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  summary-cards:
+    name: Summary Cards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
+  wakatime:
+    name: WakaTime
+    needs: summary-cards
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
