@@ -1,6 +1,8 @@
 # Hi there&nbsp;:wave:
 
-_Lead Engineer at [WED](https://github.com/wedinc)_
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kynbuubkiu3r4qh4hjuaglhfay)
+
+_Engineering Manager at [WED](https://github.com/wedinc)_
 
 ### About Me
 
