@@ -39,3 +39,35 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_SHORT_INFO: "True"
+  metrics:
+    name: metrics
+    runs-on: wakatime
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: yanskun
+          token: ${{ secrets.GH_TOKEN }}
+          template: classic
+          config_timezone: Asia/Tokyo
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_contributors: yes
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_reactions: yes
+          plugin_reactions_ignored: github-actions[bot], dependabot[bot]
+          plugin_reactions_limit: 200
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_sort: stars
+          plugin_people: yes
+          plugin_people_types: followers, following, sponsoring
