@@ -89,27 +89,32 @@ Mac                      5 hrs 5 mins        ███████████�
 <!--END_SECTION:waka-->
 
 <details>
-<summary>GitHub Status</summary>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/1-repos-per-language.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/3-stats.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/3-stats.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
- <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
-</picture>
+  <summary>Metrics</summary>
+  <img src="https://github.com/yanskun/yanskun/blob/main/github-metrics.svg" alt="Metrics">
+</details>
+
+<details>
+  <summary>GitHub Status</summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+   <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg">
+   <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg">
+   <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/2-most-commit-language.svg">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/3-stats.svg">
+   <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/3-stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
+   <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
+  </picture>
 </details>
