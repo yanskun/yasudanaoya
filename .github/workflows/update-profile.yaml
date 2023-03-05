@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'README.md'
+      - '.github/workflows/update-profile.yaml'
 
 jobs:
   summary-cards:
