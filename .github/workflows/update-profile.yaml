@@ -4,6 +4,9 @@ on:
   schedule: # execute every 24 hours
     - cron: '* */24 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'README.md'
 
 jobs:
   summary-cards:
@@ -56,8 +59,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
-          plugin_contributors: yes
+          plugin_achievements_threshold: X
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
@@ -71,4 +73,6 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_sort: stars
           plugin_people: yes
-          plugin_people_types: followers, following, sponsoring
+          plugin_people_types: followers, following, sponsoring, stargazers
+          plugin_repositories: yes
+          
