@@ -29,7 +29,7 @@ const yanskun = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2023%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ Mac                      5 hrs 39 mins       ███████████�
 ```
 
 
- Last Updated on 09/06/2023 00:15:29 UTC
+ Last Updated on 09/06/2023 00:43:17 UTC
 <!--END_SECTION:waka-->
 
 <details>
