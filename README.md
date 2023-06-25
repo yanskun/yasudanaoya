@@ -33,7 +33,7 @@ const yanskun = {
 
 **🐱 My GitHub Data** 
 
-> 📦 118.4 kB Used in GitHub's Storage 
+> 📦 114.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,644 Contributions in the Year 2023
  > 
@@ -85,7 +85,7 @@ Mac                      5 hrs 10 mins       ███████████�
 ```
 
 
- Last Updated on 25/06/2023 01:15:51 UTC
+ Last Updated on 25/06/2023 01:44:48 UTC
 <!--END_SECTION:waka-->
 
 <details>
