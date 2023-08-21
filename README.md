@@ -29,11 +29,11 @@ const yanskun = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 119.3 kB Used in GitHub's Storage 
+> 📦 119.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2,049 Contributions in the Year 2023
  > 
@@ -86,7 +86,7 @@ Linux                    9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 21/08/2023 00:17:32 UTC
+ Last Updated on 21/08/2023 01:19:25 UTC
 <!--END_SECTION:waka-->
 
 <details>
