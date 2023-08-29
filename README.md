@@ -16,10 +16,10 @@ const yanskun = {
     misc: ["tmux", "Copilot"],
   },
   skills: {
-    web_front: {
+    front: {
       js: ["Nuxt.js", "React"],
     },
-    backEnd: {
+    backend: {
       go: ["Echo"],
     },
     learning: ["Rust", "Deno"],
