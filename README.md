@@ -15,8 +15,8 @@ const yanskun = {
     keyboard: "HHKB",
     misc: ["tmux", "Copilot"],
   },
-  technologies: {
-    webFront: {
+  skills: {
+    web_front: {
       js: ["Nuxt.js", "React"],
     },
     backEnd: {
@@ -24,7 +24,7 @@ const yanskun = {
     },
     learning: ["Rust", "Deno"],
   },
-  mostFavirite: "GitHub",
+  most_favirite: "GitHub",
 }
 ```
 
