@@ -1,8 +1,4 @@
-# Hi there&nbsp;:wave:
-
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kynbuubkiu3r4qh4hjuaglhfay) -->
-
-_Engineering Manager at [WED](https://github.com/wedinc)_
+# Hi there&nbsp; :wave:
 
 ### About Me
 
