@@ -26,7 +26,10 @@ const yanskun = {
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=yanskun&theme=onedark&column=3" alt="trophy">
 
-<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+
+<details>
+  <summary>Summary</summary>
+  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
@@ -49,6 +52,8 @@ const yanskun = {
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/4-productive-time.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
 </picture>
+
+</details>
 
 <details>
   <summary>WakaTime</summary>
