@@ -1,28 +1,20 @@
 # Hi there&nbsp; :wave:
 
-### About Me
+## About Me
 
-```ts
-const yanskun = {
-  code: ["JavaScript", "TypeScript", "Go", "Rust", "Lua"],
-  functions: ["Web Developer", "EM"],
-  devTools: {
-    editor: ["Neovim", "VSCode"],
-    keyboard: "HHKB",
-    misc: ["tmux", "Copilot"],
-  },
-  skills: {
-    front: {
-      js: ["Nuxt.js", "React"],
-    },
-    backend: {
-      go: ["Echo"],
-    },
-    learning: ["Rust", "Deno"],
-  },
-  most_favirite: "GitHub",
-}
-```
+### 💌 Like
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
+
+### 🤓 My Skills
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxtjs,react,nextjs,go,lua" />
+
+### ⚙️ My Gears
+<img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode,githubcopilot,alacritty,tmux" />
+
+### 📖 Learn & Interest
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,deno,css,zig,playwright,githubactions,storybook,eslint" />
+
+
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=yanskun&theme=onedark&column=3" alt="trophy">
 
