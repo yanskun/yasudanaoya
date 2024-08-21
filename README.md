@@ -1,27 +1,25 @@
 # Hi there&nbsp; :wave:
 
-## About Me
-
-### 💌 Like
+## 💌 Like
 <img src="https://go-skill-icons.vercel.app/api/icons?i=github" />
 
-### 🤓 My Skills
-<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxtjs,react,nextjs,go,lua" />
+## 🤓 My Skills
+<img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,vue,nuxtjs,react,nextjs,go,lua,git" />
 
-### ⚙️ My Gears
+## ⚙️ My Gears
 <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscode,githubcopilot,alacritty,tmux" />
 
-### 📖 Learn & Interest
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,deno,css,zig,playwright,githubactions,storybook,eslint" />
+## 📖 Learn & Interest
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rust,deno,css,zig,playwright,githubactions,storybook,netlify,eslint" />
 
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=yanskun&theme=onedark&column=3" alt="trophy">
 
+## 🏭 Status
 
-<details>
-  <summary>Summary</summary>
-  <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+<img src="https://github-profile-trophy.vercel.app/?username=yanskun&theme=onedark&row=1" alt="trophy">
+
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/0-profile-details.svg">
@@ -45,7 +43,7 @@
  <img src="https://raw.githubusercontent.com/yanskun/yanskun/master/profile-summary-card-output/default/4-productive-time.svg">
 </picture>
 
-</details>
+---
 
 <details>
   <summary>WakaTime</summary>
