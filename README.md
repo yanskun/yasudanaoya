@@ -12,6 +12,10 @@
 ## 📖 Learn & Interest
 <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,deno,css,zig,playwright,githubactions,storybook,netlify,eslint" />
 
+## Links
+- [Zenn](https://zenn.dev/yanskun)
+- [Qiita](https://qiita.com/yanskun)
+- [Speaker Deck](https://speakerdeck.com/yanskun)
 
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
